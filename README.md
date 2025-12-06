@@ -1,3 +1,3 @@
-#blog.genesis.corecraftgenesis.ch
+#blog.corecraftgenesis.ch
 
 CoreCraft Industries
